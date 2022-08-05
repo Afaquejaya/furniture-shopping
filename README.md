@@ -5,6 +5,9 @@ A new Flutter project.
 ## Getting Started
 
 This project is a starting point for a Flutter application.
+### Run this command on your IDE (Android Studio/VS Code) : (if getting SDK Error)
+```start ms-settings:developers```
+
 
 A few resources to get you started if this is your first Flutter project:
 
